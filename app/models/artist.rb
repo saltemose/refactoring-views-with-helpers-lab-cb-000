@@ -9,5 +9,5 @@ class Artist < ActiveRecord::Base
     @artist_name = name
     @artist_name
   end
-  
+
 end
